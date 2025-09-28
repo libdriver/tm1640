@@ -1,0 +1,28 @@
+var driver__tm1640_8c =
+[
+    [ "CHIP_NAME", "driver__tm1640_8c.html#adc9da0a24824ca1239b593f6459b3954", null ],
+    [ "DRIVER_VERSION", "driver__tm1640_8c.html#ae578001fe043b4cca7a0edd801cfe9c4", null ],
+    [ "MANUFACTURER_NAME", "driver__tm1640_8c.html#aaa2b8f5b105c3019df0cb346f472e803", null ],
+    [ "MAX_CURRENT", "driver__tm1640_8c.html#a2989837a37d6d63b59c6dd541b785435", null ],
+    [ "SUPPLY_VOLTAGE_MAX", "driver__tm1640_8c.html#a68eba8b601afe11f1b871d944976c035", null ],
+    [ "SUPPLY_VOLTAGE_MIN", "driver__tm1640_8c.html#aac8d8cbd899667d609787ef4cf37054d", null ],
+    [ "TEMPERATURE_MAX", "driver__tm1640_8c.html#a90c0b20d54005712fcc8cb01281360e9", null ],
+    [ "TEMPERATURE_MIN", "driver__tm1640_8c.html#aab353db5bf4eb787f86a2080f609a551", null ],
+    [ "TM1640_COMMAND_ADDRESS", "driver__tm1640_8c.html#a5b765420c1e17cb6b52f849b5efb1b12", null ],
+    [ "TM1640_COMMAND_DATA", "driver__tm1640_8c.html#ae7f387a9787caac2a474cea9d5e394be", null ],
+    [ "TM1640_COMMAND_DISPLAY", "driver__tm1640_8c.html#acd574b125028d94bc31dea215927a2b4", null ],
+    [ "tm1640_clear_segment", "group__tm1640__basic__driver.html#gaaec107cd1a6ee3bee3ad9457ee49f117", null ],
+    [ "tm1640_deinit", "group__tm1640__basic__driver.html#ga02e691d4a60c4a54fd2053ccbfd31a97", null ],
+    [ "tm1640_get_address_mode", "group__tm1640__basic__driver.html#ga43d4225d6d6282bd16d7bd2d8abe9fbd", null ],
+    [ "tm1640_get_display", "group__tm1640__basic__driver.html#gaed45de401c56474a00d3c397375e4d39", null ],
+    [ "tm1640_get_pulse_width", "group__tm1640__basic__driver.html#gad5b99fff1d01e876ea30b6c35af9d2ad", null ],
+    [ "tm1640_get_test_mode", "group__tm1640__basic__driver.html#ga4d0d5311249fa26073172013bb414cd1", null ],
+    [ "tm1640_info", "group__tm1640__basic__driver.html#ga0560ac7e8d61964233ebf0ea4191cd70", null ],
+    [ "tm1640_init", "group__tm1640__basic__driver.html#ga8314a7f22aaf105d2ba95f2ad04f4dcc", null ],
+    [ "tm1640_set_address_mode", "group__tm1640__basic__driver.html#gad65f43b4ebceb302d780557217ceb7ff", null ],
+    [ "tm1640_set_display", "group__tm1640__basic__driver.html#gaff7325db0192414ff48cbef750f10e4d", null ],
+    [ "tm1640_set_pulse_width", "group__tm1640__basic__driver.html#ga9c6737db536b23c4d3ef9711187e6cc5", null ],
+    [ "tm1640_set_reg", "group__tm1640__extern__driver.html#ga97cad594129ed0ef99dee5a6300777c3", null ],
+    [ "tm1640_set_test_mode", "group__tm1640__basic__driver.html#gac755b78666940d30e42b15238d7073ee", null ],
+    [ "tm1640_write_segment", "group__tm1640__basic__driver.html#gab7c087e749caf6de2ae613ad93220c55", null ]
+];
