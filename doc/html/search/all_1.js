@@ -1,31 +1,5 @@
 var searchData=
 [
-  ['data_5fconf_2',['data_conf',['../structtm1640__handle__s.html#af030effaf6956b61319a4b79267ca033',1,'tm1640_handle_s']]],
-  ['debug_5fprint_3',['debug_print',['../structtm1640__handle__s.html#a769d5b3a6c14790a0e126e8fe70b384b',1,'tm1640_handle_s']]],
-  ['delay_5fms_4',['delay_ms',['../structtm1640__handle__s.html#a406c9433252b7366de417b7a60915c81',1,'tm1640_handle_s']]],
-  ['delay_5fus_5',['delay_us',['../structtm1640__handle__s.html#a97ffc4fce945527bd6ab25a3596caef7',1,'tm1640_handle_s']]],
-  ['din_5fgpio_5fdeinit_6',['din_gpio_deinit',['../structtm1640__handle__s.html#a95fc90d8cb3f0d2cf2b7a7d018515a53',1,'tm1640_handle_s']]],
-  ['din_5fgpio_5finit_7',['din_gpio_init',['../structtm1640__handle__s.html#a89b43080a6b9e5a187a89c26226682a4',1,'tm1640_handle_s']]],
-  ['din_5fgpio_5fwrite_8',['din_gpio_write',['../structtm1640__handle__s.html#ab7639da353a7b26c44610d55b6e7110b',1,'tm1640_handle_s']]],
-  ['display_5fconf_9',['display_conf',['../structtm1640__handle__s.html#a51392827dbb34f1fed4f019d49bca57d',1,'tm1640_handle_s']]],
-  ['driver_5ftm1640_2ec_10',['driver_tm1640.c',['../driver__tm1640_8c.html',1,'']]],
-  ['driver_5ftm1640_2eh_11',['driver_tm1640.h',['../driver__tm1640_8h.html',1,'']]],
-  ['driver_5ftm1640_5fbasic_2ec_12',['driver_tm1640_basic.c',['../driver__tm1640__basic_8c.html',1,'']]],
-  ['driver_5ftm1640_5fbasic_2eh_13',['driver_tm1640_basic.h',['../driver__tm1640__basic_8h.html',1,'']]],
-  ['driver_5ftm1640_5finterface_2eh_14',['driver_tm1640_interface.h',['../driver__tm1640__interface_8h.html',1,'']]],
-  ['driver_5ftm1640_5finterface_5ftemplate_2ec_15',['driver_tm1640_interface_template.c',['../driver__tm1640__interface__template_8c.html',1,'']]],
-  ['driver_5ftm1640_5flink_5fdebug_5fprint_16',['DRIVER_TM1640_LINK_DEBUG_PRINT',['../group__tm1640__link__driver.html#ga1871af98e8b2a9c9e9e008c2a9bb3dc6',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fdelay_5fms_17',['DRIVER_TM1640_LINK_DELAY_MS',['../group__tm1640__link__driver.html#ga24832ef6fc60dd80e5475a076e5dd0cf',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fdelay_5fus_18',['DRIVER_TM1640_LINK_DELAY_US',['../group__tm1640__link__driver.html#gaba1f52939e10d9e4b8fd43dd91752a51',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fdin_5fgpio_5fdeinit_19',['DRIVER_TM1640_LINK_DIN_GPIO_DEINIT',['../group__tm1640__link__driver.html#gace0cda85a8d7529b45271b2314a23246',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fdin_5fgpio_5finit_20',['DRIVER_TM1640_LINK_DIN_GPIO_INIT',['../group__tm1640__link__driver.html#gac452ea72fe5dff7e8b874ee94e7a66fb',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fdin_5fgpio_5fwrite_21',['DRIVER_TM1640_LINK_DIN_GPIO_WRITE',['../group__tm1640__link__driver.html#gad93393f6b06fd344bd68b8292e9f10db',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5finit_22',['DRIVER_TM1640_LINK_INIT',['../group__tm1640__link__driver.html#ga13d3fda0749a272b9eb0c6518789fb3e',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fsclk_5fgpio_5fdeinit_23',['DRIVER_TM1640_LINK_SCLK_GPIO_DEINIT',['../group__tm1640__link__driver.html#gae725e764df26d1d1bcfd8fc8081c7b16',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fsclk_5fgpio_5finit_24',['DRIVER_TM1640_LINK_SCLK_GPIO_INIT',['../group__tm1640__link__driver.html#gadf608b0e8f0a9fb5e9019fece43197ed',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5flink_5fsclk_5fgpio_5fwrite_25',['DRIVER_TM1640_LINK_SCLK_GPIO_WRITE',['../group__tm1640__link__driver.html#ga259f34e6adde95eb1d3dd22d79d08ba9',1,'driver_tm1640.h']]],
-  ['driver_5ftm1640_5fwrite_5ftest_2ec_26',['driver_tm1640_write_test.c',['../driver__tm1640__write__test_8c.html',1,'']]],
-  ['driver_5ftm1640_5fwrite_5ftest_2eh_27',['driver_tm1640_write_test.h',['../driver__tm1640__write__test_8h.html',1,'']]],
-  ['driver_5fversion_28',['driver_version',['../structtm1640__info__s.html#a41b0bd442708b70d252c50b92c75265a',1,'tm1640_info_s']]],
-  ['driver_5fversion_29',['DRIVER_VERSION',['../driver__tm1640_8c.html#ae578001fe043b4cca7a0edd801cfe9c4',1,'driver_tm1640.c']]]
+  ['chip_5fname_0',['CHIP_NAME',['../driver__tm1640_8c.html#adc9da0a24824ca1239b593f6459b3954',1,'driver_tm1640.c']]],
+  ['chip_5fname_1',['chip_name',['../structtm1640__info__s.html#af890958c72bd715cc6454a10dc846ae6',1,'tm1640_info_s']]]
 ];

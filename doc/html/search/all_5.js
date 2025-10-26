@@ -1,10 +1,6 @@
 var searchData=
 [
-  ['sclk_5fgpio_5fdeinit_38',['sclk_gpio_deinit',['../structtm1640__handle__s.html#a46c80be5f6502c3241ebbe66571720bb',1,'tm1640_handle_s']]],
-  ['sclk_5fgpio_5finit_39',['sclk_gpio_init',['../structtm1640__handle__s.html#ab76991d06868e192e69f666bf3e56ad4',1,'tm1640_handle_s']]],
-  ['sclk_5fgpio_5fwrite_40',['sclk_gpio_write',['../structtm1640__handle__s.html#af8c749117fc88b06e13a725477812bff',1,'tm1640_handle_s']]],
-  ['supply_5fvoltage_5fmax_41',['SUPPLY_VOLTAGE_MAX',['../driver__tm1640_8c.html#a68eba8b601afe11f1b871d944976c035',1,'driver_tm1640.c']]],
-  ['supply_5fvoltage_5fmax_5fv_42',['supply_voltage_max_v',['../structtm1640__info__s.html#a3d2b12bcac7a85ea8646bff9debe8660',1,'tm1640_info_s']]],
-  ['supply_5fvoltage_5fmin_43',['SUPPLY_VOLTAGE_MIN',['../driver__tm1640_8c.html#aac8d8cbd899667d609787ef4cf37054d',1,'driver_tm1640.c']]],
-  ['supply_5fvoltage_5fmin_5fv_44',['supply_voltage_min_v',['../structtm1640__info__s.html#ad8bde6ddadaf43d951e62f3befb9d35a',1,'tm1640_info_s']]]
+  ['inited_0',['inited',['../structtm1640__handle__s.html#a19bedf28d2b9748f6a62d9ae93f4e68f',1,'tm1640_handle_s']]],
+  ['interface_1',['interface',['../structtm1640__info__s.html#aebaa6c28dd4f2c3dc27566fcb910fd28',1,'tm1640_info_s']]],
+  ['interface_20driver_20function_2',['tm1640 interface driver function',['../group__tm1640__interface__driver.html',1,'']]]
 ];
