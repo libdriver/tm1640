@@ -1,4 +1,4 @@
-o/**
+/**
  * @mainpage  LibDriver TM1640
  * @brief     LibDriver TM1640 is a full-featured driver of TM1640 and it can run in both MCU and Linux platform.
  * @version   1.0.0

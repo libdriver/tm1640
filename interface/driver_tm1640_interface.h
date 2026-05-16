@@ -34,8 +34,8 @@
  * </table>
  */
 
-#ifndef DRIVER_TM1637_INTERFACE_H
-#define DRIVER_TM1637_INTERFACE_H
+#ifndef DRIVER_TM1640_INTERFACE_H
+#define DRIVER_TM1640_INTERFACE_H
 
 #include "driver_tm1640.h"
 
